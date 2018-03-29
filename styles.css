@@ -1,0 +1,36 @@
+/* add your CSS here */
+.forms {
+	border: solid;
+	border-color: gray;
+	border-width: thin;
+	width: 300px;
+	box-shadow: 5px 5px 5px gray;
+	align-self: center;
+	padding: 5px;
+}
+
+.box {
+	border: solid ;
+	border-color: gray;
+	border-width: thin;
+	margin: 5px;
+	padding: 10px;
+}
+
+.inter {
+	font-style: italic;
+}
+
+.picture {
+	width: 300px;
+}
+
+ul {
+  list-style: none;
+  padding-left: 0;
+}
+
+span {
+	font-weight: bold;
+}
+
